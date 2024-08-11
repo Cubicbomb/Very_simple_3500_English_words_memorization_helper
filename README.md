@@ -13,4 +13,4 @@
 
 请多指教！
 
-B站 https://www.bilibili.com/video/BV1rp4y1V7ym/，那是第一代的时候我做的东西，哎呀，瞎搞的，不要管不要管。
+B站 https://www.bilibili.com/video/BV1rp4y1V7ym/, 那是第一代的时候我做的东西，哎呀，瞎搞的，不要管不要管。
